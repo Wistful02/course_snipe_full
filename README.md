@@ -23,4 +23,4 @@ Where the real sniping starts. Uses rutgers API to see if the courses are open a
 Use at your own risk. Might be a violation to webreg TOS.
 Automatically registers for the courses. It is still WIP and doesnt function properly.
 
-Zavier
+Zav
