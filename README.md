@@ -1,4 +1,4 @@
-**Requirements**
+**Requirements** \n
 Change the values in the text file (/settings/coursenumbers.txt) to the classes you are trying to snipe.
 
 Try to not change anything else tho.
