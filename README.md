@@ -1,9 +1,12 @@
+**Requirements**
 Change the values in the text file (/settings/coursenumbers.txt) to the classes you are trying to snipe.
 
 Try to not change anything else tho.
 
-do 'pip install -r requirements.txt' in this directory(folder) before you try to run this program.
+Do 'pip install -r requirements.txt' in this directory(folder) before you try to run this program.
 Should have everything, I think.
+\n
+A chrome browser is required for this program. It defaults to opening a new (basically) incognito session where none of your passwords would be present. For it to open a session with your gmail account, you would need to locate your chrome profiles folder and add option to selenium.
 
 **Explanation:**
 
